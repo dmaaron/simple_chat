@@ -1,0 +1,15 @@
+#chat-form {
+  position:fixed;
+  bottom:20px;
+  width:100%;
+  input {
+    width: 90%;
+    font-size:24px;
+  }
+  #chat_input {
+    width:85%;
+  }
+  input[type=submit] {
+    width: 10%;
+  }
+}
